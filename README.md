@@ -1,1 +1,1 @@
-# Verzeo-Internship
+# Verzeo-ML-Internship
